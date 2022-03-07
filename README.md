@@ -2,6 +2,7 @@
 lets try our hands on Physics with Python.
 
 So, far we have discussed------------------------------>
+
 1}
 
 ![download](https://user-images.githubusercontent.com/99118678/157010142-23b93a37-7a5a-4f5b-a4ca-f805f3fee37a.png)
