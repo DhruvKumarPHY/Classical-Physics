@@ -10,3 +10,8 @@ So, far we have discussed------------------------------>
 2}
 
 <img width="489" alt="Screenshot 2022-03-07 at 3 43 16 PM" src="https://user-images.githubusercontent.com/99118678/157010594-4c21d14c-bb91-408f-ba35-60f0427fa593.png">
+
+3}
+
+![Three_Body](https://user-images.githubusercontent.com/99118678/157916579-ca35e2ac-59bd-4c77-b425-49526f0d0823.gif)
+
